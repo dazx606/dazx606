@@ -4,25 +4,17 @@
 
 <h2>&nbsp;About Me :</h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-Recently completed individual and team projects reignited my interest in technology ✨. I have the ability to carry out web projects, keeping in mind that they are scalable and modularizable in order to build them as a team.
-
-Belgian living in Argentina for more than 10 years.
-
-I am passionate about sustainable development, technological progress and space conquest, I see the future of humanity in these topics.
+Software developer, mechanical engineer and project management specialist. Equipped with a diverse and promising skill set. Proficient in various programing languages and data bases. Able to effectively self-manage and focus on results during projects, very punctual, planning and good teamwork skills.
 
 ---
 <h2>📫 How to reach me:</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arsene-blavier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://wa.me/543764758858" target="_blank">
+<a href="https://www.linkedin.com/in/david-alejandro-zuleta-builes-299198133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://wa.me/573015746364_blank">
     <img src="https://img.shields.io/badge/WhatsApp-2BBB42?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="mailto:arseneblavier46@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+
 </p>
 
 ---
