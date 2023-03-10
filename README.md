@@ -11,7 +11,7 @@ Software developer, mechanical engineer and project management specialist. Equip
 
 <p align="center">
 <a href="https://www.linkedin.com/in/david-alejandro-zuleta-builes-299198133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://wa.me/573015746364_blank">
+<a href="https://wa.me/573015746364">
     <img src="https://img.shields.io/badge/WhatsApp-2BBB42?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
